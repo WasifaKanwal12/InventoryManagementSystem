@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Output folders
+output/
+bin/
+target/
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+
+# Build tools
+.gradle/
+build/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
