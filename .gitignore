@@ -2,7 +2,7 @@
 *.class
 
 # Output folders
-output/
+
 bin/
 target/
 

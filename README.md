@@ -5,7 +5,7 @@ A Java console application for managing product inventory with support for diffe
 
 | | |
 |:-------------------------:|:-------------------------:|
-| ![View Products](./Output/Inv1.jpg) | ![Add Products](./Output/Inv2.JPG) |
+| ![View Products](./Output/Inv1.JPG) | ![Add Products](./Output/Inv2.JPG) |
 | ![Search Product](./Output/Inv3.JPG) | ![Filter Products](./Output/Inv4.JPG) |
 
 ## Introduction
